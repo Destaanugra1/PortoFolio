@@ -1,0 +1,35 @@
+{
+    "navbar": {
+      "about": "Tentang",
+      "skills": "Alat & Keahlian", 
+      "project": "Proyek",
+      "contact": "Kontak"
+    },
+    "home": {
+      "title": "Hi, Desta Anugra Pratama,",
+      "title1": " Web Developer",
+      "description": "Saya seorang pengembang web yang antusias dan selalu mencari pengalaman baru. Setiap proyek adalah peluang untuk belajar, berkembang, dan menciptakan solusi yang fungsional dan menyenangkan untuk digunakan.",
+      "downloadResume": "Unduh Resume",
+      "skills": {
+        "title": "Alat & Keahlian",
+        "description": "Saya mengkhususkan diri dalam penggunaan alat dan teknologi modern untuk membangun aplikasi web yang efisien dan berkualitas tinggi. Dengan pengalaman dalam berbagai proyek, saya menciptakan solusi yang responsif, andal, dan berfokus pada pengguna, mulai dari antarmuka yang intuitif hingga backend yang kuat, memastikan kinerja optimal dan integrasi yang lancar."
+      },
+      "contact": {
+        "title": "Mari",
+        "title1": "Berkolaborasi!",
+        "description": "Berbasis di Indonesia, Saya siap bekerja sama dengan Anda dalam bahasa Indonesia dan Inggris. Apakah Anda memiliki ide bagus yang ingin Anda wujudkan? Mari kita mulai kolaborasi kita!",
+        "emailMe": "Kirim Email"
+      }, 
+      "experience" : {
+        "title1":"Toko online Alat Tulis Perlengkapan Sekolah dan Kantor",
+        "description1":"Sebuat toko berbasis online yang menyediakan alat tulis dan alat kantor dengan pembayaran yang cukup lengkap, toko ini memiliki harga yang terjangkau, meiliki sistem role, toko ini mempunya fitur login yang cukup mudah, seperti google dan facebook.",
+        "title2": "Website Bimbel Griselda",
+        "description2": "Sebuah platform yang mengintegrasikan halaman landing promosi dengan sistem admin untuk manajemen konten. Dibangun menggunakan React dan NestJS, saya berkontribusi sebagai front-end developer dengan fokus pada implementasi desain UI responsif dan memastikan pengalaman pengguna yang optimal.",
+        "title3": "POS Yang's Grosir",
+        "description3": "Sistem point-of-sale berbasis web yang dirancang untuk mempermudah operasi kasir di Yang's Grosir. Dibangun menggunakan Next.js dan NestJS, saya berperan sebagai front-end developer, bertanggung jawab dalam implementasi desain UI dan integrasi API untuk menghubungkan berbagai fitur dengan backend.",
+        "title4": "Sistem Informasi Perhitungan Anggaran Perbaikan Jalan untuk Provinsi Lampung",
+        "description4": "Sistem berbasis web yang mendukung Dinas Pekerjaan Umum dan Bina Marga Provinsi Lampung (BMBK) dalam menghitung anggaran perbaikan jalan secara akurat dan efisien. Dikembangkan menggunakan Laravel dan Bootstrap, sistem ini menyediakan antarmuka yang ramah pengguna dan fitur perhitungan otomatis. Sebagai fullstack developer, saya bertanggung jawab untuk merancang UI, mengembangkan modul utama, dan memastikan sistem memenuhi kebutuhan pengguna."
+    
+      }
+    }
+  }
