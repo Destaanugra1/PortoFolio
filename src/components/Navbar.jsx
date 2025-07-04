@@ -58,9 +58,6 @@ const Navbar = () => {
           >
             {i18n.language === 'en' ? 'EN' : 'ID'}
           </button>
-          <Button color="primary" variant="light" >
-        Light
-      </Button>
           {/* Hamburger Menu */}
           <button
             onClick={() => setIsMenuOpen(!isMenuOpen)}
