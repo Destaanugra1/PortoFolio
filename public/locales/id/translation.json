@@ -24,7 +24,9 @@
       "title1": "Toko online Alat Tulis Perlengkapan Sekolah dan Kantor",
       "description1": "Sebuat toko berbasis online yang menyediakan alat tulis dan alat kantor dengan pembayaran yang cukup lengkap, toko ini memiliki harga yang terjangkau, meiliki sistem role, toko ini mempunya fitur login yang cukup mudah, seperti google dan facebook.",
       "title2": "Sistem Informasi Penjualan Batik",
-      "description2": "Sebuah Penjualan berbasis online dengan integrasi payment getway midtrans, dengan tampilan yang cukup menarik, dan ada data statistik nya untuk kebutuan analis penjualan, di bangun menggunakan, React vite dan Codeigneter 4."
+      "description2": "Sebuah Penjualan berbasis online dengan integrasi payment getway midtrans, dengan tampilan yang cukup menarik, dan ada data statistik nya untuk kebutuan analis penjualan, di bangun menggunakan, React vite dan Codeigneter 4.",
+      "title3": "Sistem Informasi Menjemen Toko atau Kasir",
+      "description3": "Sebuah Penjualan Sistem Informasi yang digunakan untuk mengelola transaksi penjualan, stok barang, dan laporan keuangan di toko. Sistem ini dirancang untuk mempermudah proses penjualan dan meningkatkan efisiensi operasional toko."
     }
   }
 }

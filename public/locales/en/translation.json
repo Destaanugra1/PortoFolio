@@ -24,7 +24,9 @@
       "title1": "Online Store for School and Office Supplies",
       "description1": "An online store that provides stationery and office equipment with comprehensive payment options. This store offers affordable prices, has a role system, and features easy login options like Google and Facebook.",
       "title2": "Batik Sales Information System",
-      "description2": "An online-based sales with the integration of the Midtrans payment gateway, with a fairly attractive appearance, and there is statistical data for the needs of sales analysts, built using React Vite and CodeIgniter 4."
+      "description2": "An online-based sales with the integration of the Midtrans payment gateway, with a fairly attractive appearance, and there is statistical data for the needs of sales analysts, built using React Vite and CodeIgniter 4.",
+      "title3": "Store or Cashier Management Information System",
+      "description3": "A Sales Information System used to manage sales transactions, inventory, and financial reports in a store. This system is designed to streamline the sales process and improve store operational efficiency."
     }
   }
 }

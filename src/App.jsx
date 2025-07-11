@@ -21,7 +21,7 @@ export default function App() {
 
   const handleDownload = () => {
     const isEnglish = i18n.language === 'en';
-    const fileUrl = isEnglish ? '/destacv.pdf' : '/destacv.pdf';
+    const fileUrl = isEnglish ? '/cvpremiumdesta.pdf' : '/cvpremiumdesta.pdf';
     const fileName = isEnglish
       ? 'Desta Anugra Pratama Resume.pdf'
       : 'CV Desta Anugra Pratama.pdf';
@@ -130,6 +130,15 @@ export default function App() {
                 <ExperiencesCard
                   src='/img/cart.jpg'
                   title={t('home.experience.title2')}
+                  duration='Done'
+                  role='Fullstack Developer'
+                  description={t('home.experience.description2')}
+                />
+              </div>
+              <div data-aos='fade-up' data-aos-duration='3000'>
+                <ExperiencesCard
+                  src='/img/kasir.png'
+                  title={t('home.experience.title3')}
                   duration='Done'
                   role='Fullstack Developer'
                   description={t('home.experience.description2')}
